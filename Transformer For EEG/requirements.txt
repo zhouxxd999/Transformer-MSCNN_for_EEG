@@ -1,0 +1,8 @@
+安装环境：
+torch
+pyedflib
+tqdm
+numpy
+
+安装ptedflib库读取数据集数据：
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyedflib
